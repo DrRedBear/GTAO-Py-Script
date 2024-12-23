@@ -74,10 +74,10 @@
    - Why you don't convert the user input to a Integer value in the opt_menu function in the code?
      - the main reason i did this is because if i converted the string values of the inpu to integer, but the user accidentaly added a character value to the input, it would cause the app to crash instead of saying that the option is unknown, so instead of it i just used string vlaues in the if statements
    - can i post this app on other platforms?
-     - It depends, you'll can share my github repo, but you can't upload my raw repo files to another platform without modifying them into an original file and get the credit for it, if i know of a case like this i will file a DMCA strike in whichever platform it happens
+     - It depends, you can share my github repo, but you can't upload my raw repo files to another platform without modifying them into an original file and get the credit for it, if i know of a case like this i will file a DMCA strike in whichever platform it happens
 
 5. misc questions
    - What do i do if my question is not in the list?
-     -
+     - if your question is not in the list, or you need help with something, use this [form](https://docs.google.com/forms/d/e/1FAIpQLSeHoZSwY1O4ab50axYLgIdsxWIWdOzW7st-SvTtxPiVZDRGIA/viewform?usp=dialog)
    - How can i support you?
-     -
+     - by downloading and sharing this repo you'll already be supporting me, i'm currently not accepting donations
