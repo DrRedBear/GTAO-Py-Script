@@ -17,8 +17,8 @@
      - NO!, This is not a mod menu for gta online, it is an automation script that allows you to block the game's cloud saving by using windows firewall rules, and it does not interfere with any of the game's files or tasks, neither does it automates user inputs like a macro
    - Can i get banned from GTA Online for using this?
      - at the time i'm posting this (12/23/2024), NO, you won't get banned for using this app, mainly because as said before, it does not alter any of the game code os tasks, and it also doesn't automate user inputs such as a macro, so it won't trigger any of battleye cheat detections, and it probably never will, considering all the stuff that this app does can be done by command lines in windows CMD...
-     >[!WARNING]
-     >even though the chances of getting banned by using this app are extremely slim, it may happen if you use it unproperly or if it becomes detected in a far future, knowing that, be advised that i (the owner of this app) do not and will not take responsability for any bans caused byu the use of this app, **SO USE IT AT YOUR OWN RISK**
+> [!WARNING]
+> even though the chances of getting banned by using this app are extremely slim, it may happen if you use it unproperly or if it becomes detected in a far future, knowing that, be advised that i (the owner of this app) do not and will not take responsability for any bans caused by the use of this app, **SO USE IT AT YOUR OWN RISK**.
    - what is the purpose of this app?
      - the main purpose of this app is auxiliating in glitches and in the gameplay in general
    - what are the options of this app?
