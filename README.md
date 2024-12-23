@@ -7,7 +7,7 @@
 ***This script is used to block gta online game savings, which can be useful for glitches and other stuffs***
 \
 \
-**If you need help, check the [FAQ](https://github.com/DrRedBear/GTAO-Py-Script/edit/main/FAQ.md)**
+**If you need help, check the [FAQ](https://github.com/DrRedBear/GTAO-Py-Script/main/FAQ.md)**
 \
 \
 ![gta 5 banner](https://blog.br.playstation.com/tachyon/sites/4/2022/03/8c8b5a167e620cb842fec542eed6ff9ca59c0347-scaled.jpg)
