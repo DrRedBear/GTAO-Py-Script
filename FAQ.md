@@ -63,7 +63,7 @@
 
 3. Question regarding alternative apps
    - Is it better than AHK no save scripts?
-     - i would say so, because my python script is more stable and safer than AHK, because while python is a coding language with multiple uses, AHK, while also having multiple uses it is often related to the use of macro cheats in games, makin it less safe and more likely to cause a ban
+     - i would say so, because my python script is more stable and safer than AHK, because while python is a coding language with multiple uses, AHK, while also having multiple uses it is often related to the use of macro cheats in games, making it less safe and more likely to cause a ban
      - but in other hand, while my script uses text inputs to trigger it's options, AHK often uses keyboard shortcuts for it, which may be quicker
    - Is it better than Powershell no save scripts?
      - Yes, it works pretty much the same as powershell scripts, however it is safer, more stable and quicker than powershell scripts
@@ -72,7 +72,7 @@
 
 4. question regarding the code and license
    - Why you don't convert the user input to a Integer value in the opt_menu function in the code?
-     - the main reason i did this is because if i converted the string values of the inpu to integer, but the user accidentaly added a character value to the input, it would cause the app to crash instead of saying that the option is unknown, so instead of it i just used string vlaues in the if statements
+     - the main reason i did this is because if i converted the string values of the inpu to integer, but the user accidentaly added a character value to the input, it would cause the app to crash instead of saying that the option is unknown, so instead of it i just used string values in the if statements
    - can i post this app on other platforms?
      - It depends, you can share my github repo, but you can't upload my raw repo files to another platform without modifying them into an original file and get the credit for it, if i know of a case like this i will file a DMCA strike in whichever platform it happens
 
