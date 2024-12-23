@@ -5,7 +5,7 @@
 \
 \
 ***This script is used to block gta online game savings, which can be useful for glitches and other stuffs***
-***OBS: if you are going to use the exe version, don't forget do download the '_internals' folder and place it in the same directory as the executable, or it won't work***
+* ***OBS: if you are going to use the exe version, don't forget do download the '_internals' folder and place it in the same directory as the executable, or it won't work***
 \
 \
 **If you need help, check the [FAQ](https://github.com/DrRedBear/GTAO-Py-Script/blob/main/FAQ.md)**
